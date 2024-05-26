@@ -11,7 +11,7 @@ const { comics, title, icon, link } = props;
 </script>
 
 <template>
-  <div class="flex items-center justify-between mb-4 mt-6 md:mt-12">
+  <div class="flex items-center justify-between mb-4 mt-12 md:mt-12">
     <h2
       class="flex items-center gap-2 text-xl sm:text-2xl md:text-3xl font-bold"
     >
