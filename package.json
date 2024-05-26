@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@types/node": "^18",
+    "@types/pdfkit": "^0.12.10",
+    "nuxt": "^3.6.1",
+    "nuxt-icon": "^0.4.2",
+    "nuxt-simple-robots": "^3.0.2"
+  },
+  "dependencies": {
+    "nuxt-swiper": "^1.1.1",
+    "pdfkit": "^0.13.0",
+    "vue-awesome-paginate": "^1.1.46"
+  }
+}

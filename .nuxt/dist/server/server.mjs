@@ -1,0 +1,1 @@
+export { default } from "file:///D:/My-assets/otruyen_manga/theme-otruyen/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
