@@ -47,7 +47,7 @@ watch(route, async (route) => {
     <Title>{{ `${query ? `${query} | NComics` : 'NComics'}` }}</Title>
     <Meta name="description" content="Free comic and manga reader online" />
   </Head>
-  <main class="max-w-6xl mx-auto min-h-screen py-6 px-3">
+  <main class="max-w-6xl mx-auto min-h-screen py-16 px-3">
     <div
       class="flex items-center flex-wrap gap-1 text-gray-500 font-bold text-lg"
     >

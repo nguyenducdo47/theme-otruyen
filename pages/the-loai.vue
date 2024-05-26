@@ -79,7 +79,7 @@ watch(route, async (route) => {
         "
     />
   </Head>
-  <main class="max-w-6xl mx-auto px-3 pt-10">
+  <main class="max-w-6xl mx-auto px-3 py-14">
     <h2
       class="flex items-center gap-2 text-xl sm:text-2xl md:text-3xl font-bold mb-4 mt-4 md:mt-8"
     >
