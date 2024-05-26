@@ -4,7 +4,7 @@ Free comics website using Nuxt + Tailwind
 
 ## Official Link
 
-https://ncomics.vercel.app
+https://truyenmanga.vercel.app/
 
 ## Technology
 
