@@ -401,13 +401,13 @@ function hideZalo() {
     <div class="close-btn" @click="hideZalo">X</div>
     <a
       id="zalo-btn"
-      href="https://zalo.me/0879292571"
+      href="https://t.me/ndd2105"
       target="_blank"
       rel="noopener noreferrer nofollow"
     >
       <div class="animated_zalo infinite zoomIn_zalo cmoz-alo-circle"></div>
       <div class="animated_zalo infinite pulse_zalo cmoz-alo-circle-fill"></div>
-      <span><img src="/img/zalo-icon.png" alt="Contact Me on Zalo" /></span>
+      <span><img src="/img/telegram-icon.png" alt="Contact Me on Zalo" /></span>
     </a>
   </div>
 
